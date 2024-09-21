@@ -1,5 +1,5 @@
 # Documentation for Python Code to Plot Arduino Data in Real-Time
-
+![](./ui.png)
 ## Overview
 This Python code uses the serial library to read data from an Arduino microcontroller, and the matplotlib library to plot the data in real-time. The code continuously reads data from the Arduino and adds it to a list of values that is plotted using matplotlib.
 
